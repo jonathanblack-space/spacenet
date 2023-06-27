@@ -2,7 +2,7 @@
 Publications
 ============
 
-* First, Last "Title" Journal, Year, doi
+* Test 1, Last "Title" Journal, Year, doi
 
 * First, Last "Title" Journal, Year, doi
 

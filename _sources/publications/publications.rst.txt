@@ -11,6 +11,3 @@ Publications
 * VTNews "Virginia Tech, international partners debut first-of-its kind test bed for resiliency, security in space-based internet networks," 28 Jul 2022, https://vtx.vt.edu/articles/2022/07/security-in-space-based-internet-networks.html
 
 * University of Surrey Institute of Advanced Sciences, “Blue Sky Thinking on Computer Networks in Space Workshop,” July 2022, Livestream recording link https://www.youtube.com/playlist?list=PLuTc_MaOCsf7eLV4JT-fRd-8ioYYm0cql 
-
-* First, Last "Title" Journal, Year, doi
-
